@@ -1,10 +1,7 @@
-<div style="background-color: #f8f9fa; color: #000; padding: 20px; border-radius: 10px; font-family: Arial, open-sans;">
-
-
 <img align="center" src="https://res.cloudinary.com/dqtnflaeh/image/upload/v1718646021/linkedin-cover_qplev7.png" alt="LinkedIn Banner" width="100%" />
 </a>
 
-<br>
+<hr style="border:px solid; width:100%;"/>
 
 I am a data engineering and business intelligence professional with a strong background in Accounting & Finance. My passion lies in leveraging data to create solutions that drive financial growth sustainable competitive advantage for businesses.
 
@@ -21,6 +18,8 @@ If you'd like to connect, please reach out to me on LinkedIn or via email.
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-website-3582539-2991421.png?f=webp&w=256" alt="Website Icon" width="30" />
   </a>
 </div>
+
+<hr style="border:px solid; width:100%;"/>
 
 ### Programming Languages
 <div style="display: flex; align-items: center; gap: 10px;">
@@ -89,5 +88,3 @@ If you'd like to connect, please reach out to me on LinkedIn or via email.
 <br>
 
 <img align="center" alt="renan-peres" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-peres&layout=compact&hide=CSS,TeX,SCSS"/>
-
-</div>
