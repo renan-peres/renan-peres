@@ -3,7 +3,7 @@
 
 <hr style="border:px solid; width:100%;"/>
 
-I am a data engineering and business intelligence professional with a strong background in Accounting & Finance. My passion lies in leveraging data to create solutions that drive financial growth sustainable competitive advantage for businesses.
+Business Intelligence (BI) Developer and Analytics Engineer with a solid foundation in accounting and finance.
 
 If you'd like to connect, please reach out to me on LinkedIn or via email.
 
