@@ -21,6 +21,11 @@ If you'd like to connect, please reach out to me on LinkedIn or via email.
 
 <hr style="border:px solid; width:100%;"/>
 
+<iframe title="Artificial Intelligence Sample" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZDI3MDU4M2ItMzY4YS00ZWE0LTg0OGEtNWYwYmM5NDZlYjM5IiwidCI6IjdiMDVjYmU0LTI1OWItNGFlZS1hMGRkLWRiM2JlZTVkYTFjYSIsImMiOjJ9&pageName=ReportSectionacd41c847407a998c130" frameborder="0" allowFullScreen="true"></iframe>
+
+
+<hr style="border:px solid; width:100%;"/>
+
 ### Programming Languages
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://img.icons8.com/?size=100&id=ywH6EJgZ7sm5&format=png&color=000000" alt="SQL" width="40">
