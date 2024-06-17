@@ -1,3 +1,6 @@
+<div style="background-color: #f8f9fa; color: #000; padding: 20px; border-radius: 10px; font-family: Arial, open-sans;">
+
+
 <img align="center" src="https://res.cloudinary.com/dqtnflaeh/image/upload/v1718646021/linkedin-cover_qplev7.png" alt="LinkedIn Banner" width="100%" />
 </a>
 
@@ -31,7 +34,7 @@ If you'd like to connect, please reach out to me on LinkedIn or via email.
 ### Cloud Platforms
 <div style="display: flex; align-items: center; gap: 15px;">
   <img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="Azure" width="40">
-  <img src="https://icons.michaeljohnpena.com/icons/fabric/Product/Fabric_256.svg" alt="Fabric" width="40">
+  <img src="https://res.cloudinary.com/dqtnflaeh/image/upload/v1718647187/Fabric_aieabk.svg" alt="Fabric" width="40">
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" alt="Power BI" width="45">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="Databricks" width="100">
 </div>
@@ -86,3 +89,5 @@ If you'd like to connect, please reach out to me on LinkedIn or via email.
 <br>
 
 <img align="center" alt="renan-peres" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-peres&layout=compact&hide=CSS,TeX,SCSS"/>
+
+</div>
