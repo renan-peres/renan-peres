@@ -1,4 +1,41 @@
-<div style="background-color: #f8f9fa; color: #000; padding: 20px; border-radius: 10px; font-family: Arial, open-sans;">
+<!-- Link to the Aptos font - Replace with actual URL if available -->
+<style>
+@import url('https://fonts.cdnfonts.com/css/aptos'); /* Replace with your font's URL if available */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Aptos', sans-serif; /* Fallback to sans-serif if Aptos isn't available */
+}
+
+.container {
+  background-color: #f8f9fa; /* Light background */
+  color: #000; /* Black text color */
+  padding: 20px;
+  border-radius: 10px;
+  font-family: 'Aptos', sans-serif; /* Use Aptos font */
+}
+
+h3 {
+  text-align: center;
+}
+
+.center-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.large-gap {
+  gap: 15px;
+}
+
+</style>
+
+<!-- Outer container to apply light background theme, black text color, and Aptos font -->
+<div class="container">
 
 
 <img align="center" src="https://res.cloudinary.com/dqtnflaeh/image/upload/v1718646021/linkedin-cover_qplev7.png" alt="LinkedIn Banner" width="100%" />
