@@ -29,7 +29,7 @@ If you'd like to connect, please reach out to me on LinkedIn or via email.
 
 
 ### Cloud Platforms
-<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; align-items: center; gap: 15px;">
   <img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="Azure" width="40">
   <img src="https://icons.michaeljohnpena.com/icons/fabric/Product/Fabric_256.svg" alt="Fabric" width="40">
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" alt="Power BI" width="45">
@@ -38,7 +38,7 @@ If you'd like to connect, please reach out to me on LinkedIn or via email.
 
 
 ### IDEs
-<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; align-items: center; gap: 15px;">
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode" width="50">
   <img src="https://img.icons8.com/?size=100&id=YYhSxUUW8osK&format=png&color=000000" alt="R Studio" width="50">
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter" width="100">
