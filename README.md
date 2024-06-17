@@ -9,13 +9,13 @@ If you'd like to connect, please reach out to me on LinkedIn or via email.
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/renanperes/" style="display: inline-block;">
-    <img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" alt="LinkedIn Icon" width="20" />
+    <img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" alt="LinkedIn Icon" width="30" />
   </a>
   <a href="mailto:contact@renanperes.com" style="display: inline-block;">
-    <img src="https://cdn-icons-png.flaticon.com/512/646/646094.png" alt="Email Icon" width="20" />
+    <img src="https://cdn-icons-png.flaticon.com/512/646/646094.png" alt="Email Icon" width="30" />
   </a>
   <a href="https://www.renanperes.com/" style="display: inline-block;">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-website-3582539-2991421.png?f=webp&w=256" alt="Website Icon" width="20" />
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-website-3582539-2991421.png?f=webp&w=256" alt="Website Icon" width="30" />
   </a>
 </div>
 
@@ -38,7 +38,7 @@ If you'd like to connect, please reach out to me on LinkedIn or via email.
 
 
 ### IDEs
-<div style="display: flex; align-items: center; gap: 15px;">
+<div style="display: flex; align-items: center; gap: px;">
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode" width="50">
   <img src="https://img.icons8.com/?size=100&id=YYhSxUUW8osK&format=png&color=000000" alt="R Studio" width="50">
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter" width="100">
