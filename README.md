@@ -1,5 +1,9 @@
-<img align="center" src="https://res.cloudinary.com/dqtnflaeh/image/upload/v1718646021/linkedin-cover_qplev7.png" alt="LinkedIn Banner" width="100%" />
-</a>
+<!-- <img align="center" src="https://res.cloudinary.com/dqtnflaeh/image/upload/v1718646021/linkedin-cover_qplev7.png" alt="LinkedIn Banner" width="100%" />
+</a> -->
+
+<div style="width: 100%;">
+  <img src="https://res.cloudinary.com/dqtnflaeh/image/upload/v1718668024/animated-github-banner_zmizs1.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
 <hr style="border:px solid; width:100%;"/>
 
@@ -18,11 +22,6 @@ If you'd like to connect, please reach out to me on LinkedIn or via email.
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-website-3582539-2991421.png?f=webp&w=256" alt="Website Icon" width="30" />
   </a>
 </div>
-
-<hr style="border:px solid; width:100%;"/>
-
-<iframe title="Artificial Intelligence Sample" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZDI3MDU4M2ItMzY4YS00ZWE0LTg0OGEtNWYwYmM5NDZlYjM5IiwidCI6IjdiMDVjYmU0LTI1OWItNGFlZS1hMGRkLWRiM2JlZTVkYTFjYSIsImMiOjJ9&pageName=ReportSectionacd41c847407a998c130" frameborder="0" allowFullScreen="true"></iframe>
-
 
 <hr style="border:px solid; width:100%;"/>
 
