@@ -1,13 +1,15 @@
-<!-- <img align="center" src="https://res.cloudinary.com/dqtnflaeh/image/upload/v1718646021/linkedin-cover_qplev7.png" alt="LinkedIn Banner" width="100%" />
-</a> -->
+<img align="center" src="https://res.cloudinary.com/dqtnflaeh/image/upload/v1718646021/linkedin-cover_qplev7.png" alt="LinkedIn Banner" width="100%" />
+</a>
 
-<div style="width: 100%; margin: 0; padding: 0; overflow: hidden;">
+<!-- <div style="width: 100%; margin: 0; padding: 0; overflow: hidden;">
   <img src="https://res.cloudinary.com/dqtnflaeh/image/upload/v1718670545/animated-github-banner_v2_jkepoi.svg" style="width: 100%; display: block; margin: 0; padding: 0; border: none;" alt="Click to see the source">
-</div>
+</div> -->
 
+<br>
 <hr style="border: 0; border-top: 1px solid; width: 100%; margin: 0; padding: 0;"/>
-
+<br>
 Business Intelligence (BI) Developer and Analytics Engineer with a solid foundation in accounting and finance. If you'd like to connect, please reach out to me on LinkedIn or via email.
+
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/renanperes/" style="display: inline-block;">
@@ -20,7 +22,7 @@ Business Intelligence (BI) Developer and Analytics Engineer with a solid foundat
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-website-3582539-2991421.png?f=webp&w=256" alt="Website Icon" width="30" />
   </a>
 </div>
-
+<br>
 <hr style="border: 0; border-top: 1px solid; width: 100%; margin: 0; padding: 0;"/>
 
 ### Certifications
