@@ -1,15 +1,13 @@
 <!-- <img align="center" src="https://res.cloudinary.com/dqtnflaeh/image/upload/v1718646021/linkedin-cover_qplev7.png" alt="LinkedIn Banner" width="100%" />
 </a> -->
 
-<div style="width: 100%;">
-  <img src="https://res.cloudinary.com/dqtnflaeh/image/upload/v1718670545/animated-github-banner_v2_jkepoi.svg" style="width: 100%;" alt="Click to see the source">
+<div style="width: 100%; margin: 0; padding: 0; overflow: hidden;">
+  <img src="https://res.cloudinary.com/dqtnflaeh/image/upload/v1718670545/animated-github-banner_v2_jkepoi.svg" style="width: 100%; display: block; margin: 0; padding: 0; border: none;" alt="Click to see the source">
 </div>
 
-<hr style="border:px solid; width:100%;"/>
+<hr style="border: 0; border-top: 1px solid; width: 100%; margin: 0; padding: 0;"/>
 
-Business Intelligence (BI) Developer and Analytics Engineer with a solid foundation in accounting and finance.
-
-If you'd like to connect, please reach out to me on LinkedIn or via email.
+Business Intelligence (BI) Developer and Analytics Engineer with a solid foundation in accounting and finance. If you'd like to connect, please reach out to me on LinkedIn or via email.
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/renanperes/" style="display: inline-block;">
@@ -23,15 +21,15 @@ If you'd like to connect, please reach out to me on LinkedIn or via email.
   </a>
 </div>
 
-<hr style="border:px solid; width:100%;"/>
+<hr style="border: 0; border-top: 1px solid; width: 100%; margin: 0; padding: 0;"/>
 
 ### Certifications
 <div style="display: flex; width: 200px; align-items: center; gap: 10px;">
   <a href="https://learn.microsoft.com/en-us/users/renanperes/credentials/11FF263357C970DA">
-    <img src="https://res.cloudinary.com/dqtnflaeh/image/upload/v1718666740/PowerBI-DataAnalyst_vu86zn.png" alt="Power BI Data Analyst Badge" class="badge" />
+    <img src="https://res.cloudinary.com/dqtnflaeh/image/upload/v1718666740/PowerBI-DataAnalyst_vu86zn.png" alt="Power BI Data Analyst Badge" class="badge" width="100" />
   </a>
   <a href="https://learn.microsoft.com/en-us/users/renanperes/credentials/ba4fd516d92a81d3">
-  <img src="https://res.cloudinary.com/dqtnflaeh/image/upload/v1718666724/Fabric-AnalyticsEngineer_evc52n.png" alt="Fabric Analytics Engineer Badge" class="badge" />
+  <img src="https://res.cloudinary.com/dqtnflaeh/image/upload/v1718666724/Fabric-AnalyticsEngineer_evc52n.png" alt="Fabric Analytics Engineer Badge" class="badge" width="100" />
   </a>
 </div>
 
