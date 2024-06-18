@@ -1,0 +1,11 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Embed the PNG image -->
+  <image href="https://res.cloudinary.com/dqtnflaeh/image/upload/v1718646021/linkedin-cover_qplev7.png" 
+         x="0" y="0" width="800" height="200" />
+
+  <!-- Add a border that matches the image size -->
+  <rect x="0" y="0" width="800" height="200" fill="none" stroke="black" stroke-width="5">
+    <!-- Animate the border color -->
+    <animate attributeName="stroke" values="red;blue;green;yellow;red" dur="5s" repeatCount="indefinite" />
+  </rect>
+</svg>
