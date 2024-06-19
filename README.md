@@ -36,6 +36,7 @@ Business Intelligence (BI) Developer and Analytics Engineer with a solid foundat
 
 ### Programming Languages
 <div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://res.cloudinary.com/dqtnflaeh/image/upload/v1718800618/powershell_oxhjff.svg" alt="PowerShell" width="40" />
   <img src="https://img.icons8.com/?size=100&id=ywH6EJgZ7sm5&format=png&color=000000" alt="SQL" width="40">
   <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40">
   <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="Python" width="100">
@@ -64,6 +65,7 @@ Business Intelligence (BI) Developer and Analytics Engineer with a solid foundat
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" width="100">
   <img src="https://pngimg.com/uploads/github/github_PNG20.png" alt="GitHub" width="50">
+  <img src="https://img.icons8.com/?size=100&id=lWL5zqQfa1pO&format=png&color=000000" alt="Azure DevOps" width="50">
   <img src="https://ia902905.us.archive.org/11/items/github.com-actions-virtual-environments_-_2020-03-27_07-59-20/cover.jpg" alt="GitHub Actions" width="50">
   <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" alt="Docker" width="100">
 </div>
