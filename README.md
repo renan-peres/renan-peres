@@ -10,7 +10,7 @@ I'm a Business Intelligence (BI) Developer and Analytics Engineer specializing i
 
 Feel free to connect with me on LinkedIn or via email.
 
-<div id="badges" align="center">
+<div id="badges" align="left">
   <a href="https://www.linkedin.com/in/renanperes/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
