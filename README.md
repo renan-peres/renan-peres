@@ -23,12 +23,12 @@ Feel free to connect with me on LinkedIn or via email.
 </div>
 
 
-<br>
+<!-- <br>
 <div id="stats" align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 0px;">
   <img src="https://streak-stats.demolab.com?user=renan-peres&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="renan-peres" style="height: 160px; width: 30%;" />
   <img src="https://github-readme-stats.vercel.app/api?username=renan-peres&hide=prs,issues,contribs&show_icons=true&hide_rank=true&custom_title=&hide_border=true" alt="renan-peres" style="height: 160px; width: 30%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-peres&layout=compact&hide=CSS,TeX,SCSS&langs_count=4&hide_border=true" alt="renan-peres" style="height: 160px; width: 30%;" />
-</div>
+</div> -->
 
 <hr style="border:1px solid; width:100%;"/>
 
