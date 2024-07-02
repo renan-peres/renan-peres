@@ -6,7 +6,7 @@
 
 Hello there! 👋
 
-I'm a Business Intelligence (BI) Developer and Analytics Engineer specializing in Microsoft Data/Cloud products, with a solid background in accounting and finance. 
+I'm a Business Intelligence (BI) Developer and Analytics Engineer specializing in Microsoft data/cloud products, with a solid background in accounting and finance.
 
 Feel free to connect with me on LinkedIn or via email.
 
