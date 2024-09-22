@@ -32,9 +32,6 @@ Feel free to connect with me on LinkedIn or via email.
 
 <hr style="border:1px solid; width:100%;"/>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="renanperes" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/renanperes?trk=profile-badge">Renan Peres</a></div>
-              
-
 ### Certifications
 <div style="display: flex; width: 200px; align-items: center; gap: 10px;">
   <a href="https://learn.microsoft.com/en-us/users/renanperes/credentials/11FF263357C970DA">
