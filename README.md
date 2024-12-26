@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/dqtnflaeh/image/upload/v1719165425/05_LinkedIn_Banner-Animated_qh5l3y.gif" alt="LinkedIn Banner" width="100%" />
+  <img src="https://res.cloudinary.com/dqtnflaeh/image/upload/v1734902113/10_LinkedIn_Banner_Animated_nkpavy.gif" alt="LinkedIn Banner" width="100%" />
 </div>
 
 <hr style="border:1px solid; width:100%;"/>
