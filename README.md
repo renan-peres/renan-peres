@@ -40,6 +40,9 @@ Feel free to connect with me on LinkedIn or via email.
   <a href="https://learn.microsoft.com/en-us/users/renanperes/credentials/ba4fd516d92a81d3">
     <img src="https://res.cloudinary.com/dqtnflaeh/image/upload/v1718666724/Fabric-AnalyticsEngineer_evc52n.png" alt="Fabric Analytics Engineer Badge" class="badge" width="100" />
   </a>
+  <a href="https://www.credential.net/a9e39718-df47-4779-9cdc-4dfa48fc254e">
+    <img src="https://res.cloudinary.com/dqtnflaeh/image/upload/v1735050810/CFI-FMVACertification_znzph7.png" alt="CFI FMVA Badge" class="badge" width="100" />
+  </a>
 </div>
 
 ### Programming Languages
