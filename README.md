@@ -6,7 +6,13 @@
 
 Hello there! 👋
 
-I'm a Analytics Engineer with a solid background in accounting and finance, specializing in Microsoft data/cloud products.
+I'm an Analytics Engineer and Finance professional with a strong skill set in data integration, financial reporting, business intelligence, and process automation. 
+
+Pursuing advanced degrees in Finance and Business Analytics to complement hands-on experience with Microsoft Fabric, Power BI, Excel, SQL, Python, and R. 
+
+Skilled in automating financial processes and developing strategic dashboards that drive operational efficiency and inform executive decision-making. 
+
+Multilingual (Portuguese, English, Spanish) with a global perspective, seeking to leverage my technical expertise and business acumen to drive data-driven solutions in finance and analytics.
 
 Feel free to connect with me on LinkedIn or via email.
 
