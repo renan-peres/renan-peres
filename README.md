@@ -4,15 +4,23 @@
 
 <hr style="border:1px solid; width:100%;"/>
 
-Hello there! 👋
+Hello there! 👋 Welcome to my GitHub Profile! 
 
-I'm an Analytics Engineer and Finance professional with a strong skill set in data integration, financial reporting, business intelligence, and process automation. 
+My name is Renan, I'm an Analytics Engineer and Finance professional with a strong passion for financial data mining, data warehousing, financial analytics, and robotic process automation.
 
-Pursuing advanced degrees in Finance and Business Analytics to complement hands-on experience with Microsoft Fabric, Power BI, Excel, SQL, Python, and R. 
+Currently pursuing dual Master's degrees in:
+- Finance
+- Business Analytics
 
-Skilled in automating financial processes and developing strategic dashboards that drive operational efficiency and inform executive decision-making. 
+My expertise includes:
+- Data Engineering with Microsoft Fabric + Azure, AWS
+- Financial Analysis and Reporting with Power BI and Excel
+- Financial Modeling in Excel
 
-Multilingual (Portuguese, English, Spanish) with a global perspective, seeking to leverage my technical expertise and business acumen to drive data-driven solutions in finance and analytics.
+Multilingual fluent in:
+- Portuguese
+- English
+- Spanish
 
 Feel free to connect with me on LinkedIn or via email.
 
