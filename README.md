@@ -4,9 +4,9 @@
 
 <hr style="border:1px solid; width:100%;"/>
 
-Hello there! 👋 Welcome to my GitHub Profile! 
+## Welcome to My GitHub Profile! 👋
 
-My name is Renan, I'm an Analytics Engineer and Finance professional with a strong passion for financial data mining, data warehousing, financial analytics, and robotic process automation.
+I'm **Renan**, an Analytics Engineer and Finance professional passionate about bridging the gap between data and financial decision-making.
 
 Feel free to connect with me on LinkedIn or via email.
 
