@@ -6,7 +6,7 @@
 
 ## Welcome to My GitHub Profile! 👋
 
-I'm **Renan**, an Analytics Engineer and Finance professional passionate about bridging the gap between data and financial decision-making.
+Hi, I'm **Renan** - an Analytics Engineer and Finance professional passionate about **bridging the gap between data and financial decision-making**.
 
 Feel free to connect with me on LinkedIn or via email.
 
